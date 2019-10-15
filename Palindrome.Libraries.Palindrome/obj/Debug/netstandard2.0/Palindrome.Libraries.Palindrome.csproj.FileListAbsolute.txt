@@ -1,0 +1,8 @@
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\bin\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.deps.json
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\bin\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\bin\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.pdb
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\obj\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\obj\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.AssemblyInfoInputs.cache
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\obj\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.AssemblyInfo.cs
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\obj\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Libraries.Palindrome\obj\Debug\netstandard2.0\Palindrome.Libraries.Palindrome.pdb

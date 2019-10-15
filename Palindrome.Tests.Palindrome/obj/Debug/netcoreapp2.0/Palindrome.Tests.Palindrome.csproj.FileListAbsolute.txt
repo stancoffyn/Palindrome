@@ -1,0 +1,16 @@
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.deps.json
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.runtimeconfig.json
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.runtimeconfig.dev.json
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.pdb
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\obj\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\obj\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.AssemblyInfoInputs.cache
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\obj\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.AssemblyInfo.cs
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\obj\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\obj\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.pdb
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Palindrome.Libraries.Palindrome.dll
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\bin\Debug\netcoreapp2.0\Palindrome.Libraries.Palindrome.pdb
+C:\Projects\dotnet\Palindrome\Palindrome.Tests.Palindrome\obj\Debug\netcoreapp2.0\Palindrome.Tests.Palindrome.csproj.CopyComplete
